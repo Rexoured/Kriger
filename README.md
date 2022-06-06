@@ -8,3 +8,6 @@ Les possibilités:
 Prochainement dispo: 
 
 Le bot.
+
+Le bot est en Python et il est également disponible en Noje js
+
